@@ -86,8 +86,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-work-on-federated-llm-finetuning-is-accepted-to-neurips-2025-sparkles-smile",
+          title: 'Our work on Federated LLM Finetuning is accepted to NeurIPS 2025 :sparkles: :smile:...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
