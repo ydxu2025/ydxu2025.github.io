@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Submenus
+title: Meetings
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
+  - title: Group Meetings
     permalink: /books/
   - title: divider
 #  - title: blog
