@@ -78,15 +78,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-work-on-federated-llm-finetuning-is-accepted-to-neurips-2025-sparkles-smile",
+            },},{id: "news-dr-yuedong-xu-has-migrated-to-college-of-computer-science-and-artificial-intelligence-计算与智能创新学院-fudan-university",
+          title: 'Dr. Yuedong Xu has migrated to College of Computer Science and Artificial Intelligence...',
+          description: "",
+          section: "News",},{id: "news-our-work-on-federated-llm-finetuning-is-accepted-to-neurips-2025-sparkles-smile",
           title: 'Our work on Federated LLM Finetuning is accepted to NeurIPS 2025 :sparkles: :smile:...',
           description: "",
           section: "News",},{id: "projects-project-1",
