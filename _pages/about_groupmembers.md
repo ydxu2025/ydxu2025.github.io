@@ -8,7 +8,7 @@ Mr. Liang Zuning (graduated from Fudan, 2025)
 
 Mr. Liu Boliang (graduated from Fudan, 2025)
 
-Mr. Tian Ye (graduated from SJTU, 2025)
+Mr. Tian Hang (graduated from SJTU, 2025)
 
 Ms. Wen Ming (graduated from Fudan, 2025)
 
