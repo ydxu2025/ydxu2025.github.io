@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Welcome to apply the joint PhD position of Fudan University and Shenzhen Loop Area Institute (深圳河套学院)
+Welcome to apply for the joint PhD position of Fudan University and Shenzhen Loop Area Institute (深圳河套学院)
 ---
 
 
