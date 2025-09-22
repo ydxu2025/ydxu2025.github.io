@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: WiFi Localization and Sensing
+description: fishes, fishes where are you
 img: assets/img/4.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: true
 ---
