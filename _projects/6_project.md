@@ -4,7 +4,7 @@ title: Stochastic Network Modeling
 description: seeing through certainty from randomness
 img:
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
