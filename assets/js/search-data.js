@@ -104,14 +104,14 @@ ninja.data = [{
           description: "propelling intelligent network resource allocation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-video-streaming",
-          title: 'Video Streaming',
-          description: "enjoying video streaming with higher quality and less interruptions",
+            },},{id: "projects-project-4",
+          title: 'project 4',
+          description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-network-economics",
-          title: 'Network Economics',
-          description: "earning more or paying less",
+            },},{id: "projects-project-5",
+          title: 'project 5',
+          description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
