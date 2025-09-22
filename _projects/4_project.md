@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Video Streaming
+description: enjoying video streaming with higher quality and less interruptions
 img:
-importance: 3
+importance: 2
 category: fun
 ---
 
