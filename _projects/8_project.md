@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trustworthy Multi-modal LLM
-description: exploring privacy protection, interpretability and safety alignment of multi-modal LLMs
+description: exploring privacy protection and safety alignment of multi-modal LLMs
 img: assets/img/9.jpg
 importance: 1
 category: work
