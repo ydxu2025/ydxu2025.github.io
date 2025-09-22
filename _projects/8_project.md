@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
+title: Trustworthy Multi-modal LLM
+description: exploring privacy protection, interpretability and safety alignment of multi-modal LLMs
 img: assets/img/9.jpg
-importance: 2
+importance: 1
 category: work
 giscus_comments: true
 ---
