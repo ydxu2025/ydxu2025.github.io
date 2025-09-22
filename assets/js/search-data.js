@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-people",
+          title: "People",
+          description: "members of the MediaNET lab",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{id: "dropdown-group-meetings",
               title: "Group Meetings",
               description: "",
