@@ -91,7 +91,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-foundation-model-training",
           title: 'Foundation Model Training',
-          description: "making training faster",
+          description: "making training faster and more reliable",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-foundation-model-inference",
