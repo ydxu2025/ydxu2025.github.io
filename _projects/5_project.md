@@ -4,7 +4,7 @@ title: Network Economics
 description: earning more or paying less
 img: assets/img/1.jpg
 importance: 2
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
