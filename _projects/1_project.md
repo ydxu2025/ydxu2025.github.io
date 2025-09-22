@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Foundation Model Training
-description: making training faster
+description: making training faster and more reliable
 img: assets/img/12.jpg
 importance: 1
 category: work
