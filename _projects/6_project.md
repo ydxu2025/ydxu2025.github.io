@@ -3,8 +3,8 @@ layout: page
 title: Stochastic Network Modeling
 description: seeing through certainty from randomness
 img:
-importance: 2
-category: fun
+importance: 3
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
