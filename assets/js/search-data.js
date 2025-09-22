@@ -119,9 +119,9 @@ ninja.data = [{
           description: "seeing through certainty from randomness",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-wifi-localization-and-sensing",
-          title: 'WiFi Localization and Sensing',
-          description: "fishes, fishes where are you",
+            },},{id: "projects-project-7",
+          title: 'project 7',
+          description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
