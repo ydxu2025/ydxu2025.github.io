@@ -99,14 +99,14 @@ ninja.data = [{
           description: "accelerating model inference",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-machine-learning-for-networking",
+          title: 'Machine Learning for Networking',
+          description: "propelling intelligent network resource allocation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-video-streaming",
+          title: 'Video Streaming',
+          description: "enjoying video streaming with higher quality and less interruptions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
