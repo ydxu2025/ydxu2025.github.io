@@ -19,7 +19,7 @@ profiles:
   - align: left
     image: students.jpg
     <br>
-    <br>
+    </br>
     content: about_groupmembers.md
     image_circular: false # crops the image to make it circular
     more_info: >
