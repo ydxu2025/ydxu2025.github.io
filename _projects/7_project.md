@@ -4,7 +4,7 @@ title: WiFi Localization and Sensing
 description: fishes, fishes where are you
 img: assets/img/4.jpg
 importance: 3
-category: work
+category: fun
 related_publications: true
 ---
 
