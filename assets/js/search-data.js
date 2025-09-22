@@ -106,7 +106,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-video-streaming",
           title: 'Video Streaming',
-          description: "enjoying video streaming with higher quality and less interruptions",
+          description: "enjoying video streaming with higher resolution and less interruptions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-network-economics",
