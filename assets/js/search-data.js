@@ -126,7 +126,7 @@ ninja.data = [{
               window.location.href = "/projects/7_project/";
             },},{id: "projects-trustworthy-multi-modal-llm",
           title: 'Trustworthy Multi-modal LLM',
-          description: "exploring privacy protection, interpretability and safety alignment of multi-modal LLMs",
+          description: "exploring privacy protection and safety alignment of multi-modal LLMs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{
