@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Video Streaming
-description: enjoying video streaming with higher quality and less interruptions
+description: enjoying video streaming with higher resolution and less interruptions
 img:
 importance: 2
 category: fun
