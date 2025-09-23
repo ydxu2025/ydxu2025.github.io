@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stochastic Network Modeling
-description: seeing through certainty from randomness
+description: seeing certainty through randomness
 img:
 importance: 3
 category: fun
