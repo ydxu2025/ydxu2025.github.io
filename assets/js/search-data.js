@@ -116,7 +116,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-stochastic-network-modeling",
           title: 'Stochastic Network Modeling',
-          description: "seeing through certainty from randomness",
+          description: "seeing certainty through randomness",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-wifi-localization-and-sensing",
