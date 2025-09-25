@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Yuedong Xu has migrated to College of Computer Science and Artificial Intelligence (计算与智能创新学院), Fudan University.
+Dr. Yuedong Xu has migrated to College of Computer Science and Artificial Intelligence (计算与智能创新学院) and AI3 institute (人工智能创新与产业研究院), Fudan University.
