@@ -81,12 +81,7 @@ ninja.data = [{
             },},{id: "news-dr-yuedong-xu-has-migrated-to-college-of-computer-science-and-artificial-intelligence-计算与智能创新学院-and-ai3-institute-人工智能创新与产业研究院-fudan-university",
           title: 'Dr. Yuedong Xu has migrated to College of Computer Science and Artificial Intelligence...',
           description: "",
-          section: "News",},{id: "news-dr-yuedong-xu-serves-as-a-phd-advisor-in-shenzhen-loop-area-institute-深圳河套学院",
-          title: 'Dr. Yuedong Xu serves as a PhD advisor in Shenzhen Loop Area Institute...',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-work-on-federated-llm-finetuning-is-accepted-to-neurips-2025-sparkles-smile",
+          section: "News",},{id: "news-our-work-on-federated-llm-finetuning-is-accepted-to-neurips-2025-sparkles-smile",
           title: 'Our work on Federated LLM Finetuning is accepted to NeurIPS 2025 :sparkles: :smile:...',
           description: "",
           section: "News",},{id: "projects-foundation-model-training",
