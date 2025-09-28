@@ -11,10 +11,7 @@ related_publications: true
 Large language model (LLM) training systems are fragile because of their massive scale and interconnections. A single point of failure can disrupt the entire cluster, and a single straggler device can slow synchronization and waste resources. These vulnerabilities make reliability and stability essential. 
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    Holmes: Localizing Irregularities in LLM Training with Mega-scale GPU Clusters  
     ---
 
 <div class="row">
