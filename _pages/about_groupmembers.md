@@ -1,8 +1,8 @@
 **PhD Students:**
 
-Mr. Chen Qi (graduated from Fudan, 2026)
+Mr. Chen Qi (will graduate from Fudan, 2026)
 
-Mr. Liu Yuxuan (graduated from Fudan, 2026)
+Mr. Liu Yuxuan (will graduate from Fudan, 2026)
 
 Mr. Liang Zuning (graduated from Fudan, 2025)
 
@@ -19,7 +19,9 @@ Mr. Yao Zhiyi (graduated from Fudan, 2023)
 
 **Master Students:**
 
-Mr. Zhu Jiaqi (graduated from Fudan, 2025)
+Ms. Wu Jingchao (will graduated from Nanjing Univ., 2026)
+
+Ms. Zhu Jiaqi (graduated from Fudan, 2025)
 
 Mr. Yuan Xinyu (graduated from Fudan, 2025)
 
