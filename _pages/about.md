@@ -33,7 +33,7 @@ Yuedong Xu is a Professor with College of Computer Science and Artificial Intell
 #### Research Interests
 
 <ul>
-    <li>Network for AI</li>
+    <li>Network for AI (current focus: machine learning systems)</li>
     <li>AI for Networking</li>
     <li>Multi-modal LLM Alignment</li>
 </ul>
