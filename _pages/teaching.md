@@ -16,4 +16,4 @@ nav_order: 6
 > Machine Learning Systems
 
 
-> Matrix Theory [Lectures](/assets/example.pdf)
+> Matrix Theory [Lectures](/assets/pdf/example.pdf)
