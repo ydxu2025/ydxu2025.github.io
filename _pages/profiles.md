@@ -17,7 +17,7 @@ profiles:
       <p>This picture seems too big</p>
 
   - align: left
-    image: students.jpg
+    #image: students.jpg
 
     content: about_groupmembers.md
     image_circular: false # crops the image to make it circular
