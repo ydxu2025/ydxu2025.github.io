@@ -7,7 +7,9 @@ dropdown: true
 children:
   - title: Group Meetings
     permalink: /books/
-  - title: divider
-#  - title: blog
-#    permalink: /blog/
+
+  - title: reading papers
+  
+  - title: 111
+
 ---
