@@ -5,11 +5,11 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Group Meetings
-    permalink: /books/
+ - title: Group Meetings
+   permalink: /books/
 
-  - title: reading papers
-  
-  - title: 111
+   
+
 
 ---
+{% assign meetings = site.meetings %}
