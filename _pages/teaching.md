@@ -16,7 +16,7 @@ nav_order: 6
 > Machine Learning Systems
 
 
-> Matrix Theory
+> Matrix Theory and Applications
 > > - [Lecture 1: 概述](/assets/pdf/matrixtheory/2023_Lecture01.pdf)
 > > - [Lecture 2: 线性空间](/assets/pdf/matrixtheory/矩阵论2023_Lecture02.pdf)
 > > - [Lecture 3: 内积空间](/assets/pdf/matrixtheory/矩阵论2023_Lecture02.pdf)
