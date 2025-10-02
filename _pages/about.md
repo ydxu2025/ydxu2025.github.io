@@ -24,11 +24,9 @@ announcements:
 ---
 - Yuedong Xu 徐跃东
 
-- Professor 
+- Professor, Director of MediaNet Group
 
-- Director of the MediaNet Lab
-
-- Office: Room C5014, Interdisciplinary Building No. 2, Fudan University Jiangwan Campus 
+- Office: Room C5014, Interdisciplinary Building No.2, Fudan University Jiangwan Campus 
 
 - E-mail: ydxu@fudan.edu.cn
 
