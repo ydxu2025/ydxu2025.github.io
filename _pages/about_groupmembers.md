@@ -17,6 +17,7 @@ Ms. Wen Ming (graduated from Fudan, 2025)
 Mr. Zhou Zhou (graduated from UESTC, 2024)
 
 Mr. Yao Zhiyi (graduated from Fudan, 2023)
+
 <br>
 
 ## Master Students:
@@ -48,8 +49,9 @@ Mr. Wang Junkai (graduated from Fudan, 2023)
 Mr. Ren Ziang (graduated from Fudan, 2023)
 
 Mr. Ye Leyi (graduated from Southwest Jiaotong Univ., 2023)
+
 <br>
 
-**Past Students**
+## Past Students
 
 Most graduates joined Tencent, Alibaba, or Huawei, while the rest began their careers in state-owned enterprises or government agencies.
