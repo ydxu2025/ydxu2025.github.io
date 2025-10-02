@@ -1,4 +1,4 @@
-**PhD Students:**
+## PhD Students:
 
 Mr. Chen Qi (will graduate from Fudan, 2026)
 
@@ -17,7 +17,7 @@ Mr. Zhou Zhou (graduated from UESTC, 2024)
 Mr. Yao Zhiyi (graduated from Fudan, 2023)
 <br>
 
-**Master Students:**
+## Master Students:
 
 Ms. Wu Jingchao (will graduated from Nanjing Univ., 2026)
 
