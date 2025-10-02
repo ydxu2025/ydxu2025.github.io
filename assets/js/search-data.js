@@ -44,25 +44,21 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "dropdown-reading-papers",
-              title: "reading papers",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-111",
-              title: "111",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "books-the-godfather",
-          title: 'The Godfather',
+            },{id: "books-meeting1",
+          title: 'Meeting1',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/meeting1/";
+            },},{id: "books-meeting2",
+          title: 'Meeting2',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/meeting2/";
+            },},{id: "books-meeting3",
+          title: 'Meeting3',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/meeting3/";
             },},{id: "news-dr-yuedong-xu-has-migrated-to-college-of-computer-science-and-artificial-intelligence-计算与智能创新学院-and-ai3-institute-人工智能创新与产业研究院-fudan-university",
           title: 'Dr. Yuedong Xu has migrated to College of Computer Science and Artificial Intelligence...',
           description: "",
