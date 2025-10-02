@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publication
-description: Representative papers and recent works.
+# description: Representative papers and recent works.
 nav: true
 nav_order: 2
 ---
