@@ -30,7 +30,12 @@ announcements:
 
 - E-mail: ydxu@fudan.edu.cn
 
-- Research Interests: Network for AI (current focus: LLM training and inference), AI for Networking,  Multi-modal LLM Alignment
+- Research Interests:
+  <ul>
+    <li>LLM training and inference systems</li>
+    <li>Multi-modal LLM alignment</li>
+    <li>Protocol design for agents</li>
+  </ul>
   
 ---
 
