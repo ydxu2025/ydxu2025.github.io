@@ -26,7 +26,7 @@ announcements:
 
 - Professor, Director of MediaNet Group
 
-- Office: Room C5014, Interdisciplinary Building No.2, Fudan University Jiangwan Campus 
+- Office: Interdisciplinary Science Building, Jiangwan Campus, Fudan University
 
 - E-mail: ydxu@fudan.edu.cn
 
