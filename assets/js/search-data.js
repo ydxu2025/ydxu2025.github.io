@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "Research",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "People",
-          description: "members of the MediaNET lab",
+        },{id: "nav-members",
+          title: "Members",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/members/";
           },
         },{id: "dropdown-group-meetings",
               title: "Group Meetings",
@@ -77,46 +77,16 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-on-federated-llm-finetuning-is-accepted-to-neurips-2025-sparkles-smile",
           title: 'Our work on Federated LLM Finetuning is accepted to NeurIPS 2025 :sparkles: :smile:...',
           description: "",
-          section: "News",},{id: "projects-foundation-model-training",
-          title: 'Foundation Model Training',
-          description: "making training faster and more reliable",
+          section: "News",},{id: "projects-waiting-upadting1",
+          title: 'Waiting upadting1',
+          description: "Waiting upadting1",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-foundation-model-inference",
-          title: 'Foundation Model Inference',
-          description: "accelerating model inference",
+              window.location.href = "/projects/1_project_name/";
+            },},{id: "projects-waiting-upadting2",
+          title: 'Waiting upadting2',
+          description: "Waiting upadting2",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-machine-learning-for-networking",
-          title: 'Machine Learning for Networking',
-          description: "propelling intelligent network resource allocation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-video-streaming",
-          title: 'Video Streaming',
-          description: "enjoying video streaming with higher resolution and less interruptions",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-network-economics",
-          title: 'Network Economics',
-          description: "earning more or paying less",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-stochastic-network-modeling",
-          title: 'Stochastic Network Modeling',
-          description: "seeing certainty through randomness",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-wifi-localization-and-sensing",
-          title: 'WiFi Localization and Sensing',
-          description: "fishes, fishes where are you",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-trustworthy-multi-modal-llm",
-          title: 'Trustworthy Multi-modal LLM',
-          description: "exploring privacy protection and safety alignment of multi-modal LLMs",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/projects/2_project_name/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
