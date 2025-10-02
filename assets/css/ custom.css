@@ -1,6 +1,6 @@
 /* 仅缩小主页 profile 中的头像（xu_pic.jpg） */
 .profile-pic {
-  width: 70% !important;  /* 核心：控制宽度（缩小比例），70% 即原尺寸的70% */
+  width: 50% !important;  /* 核心：控制宽度（缩小比例），70% 即原尺寸的70% */
   height: auto !important; /* 自动适配高度，避免图片拉伸变形 */
   margin-top: 10px; /* 可选：若缩小后顶部间距不合适，可微调（如 5px/15px） */
 }
