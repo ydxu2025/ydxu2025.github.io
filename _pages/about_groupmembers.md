@@ -2,6 +2,8 @@
 
 ## PhD Students:
 
+[Mr. Example](/about_example/) (will graduate from Fudan, 2026)
+
 Mr. Chen Qi (will graduate from Fudan, 2026)
 
 Mr. Liu Yuxuan (will graduate from Fudan, 2026)
