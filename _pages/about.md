@@ -34,7 +34,7 @@ announcements:
   <ul>
     <li>LLM training and inference systems</li>
     <li>Multi-modal LLM alignment</li>
-  <!--  <li>Protocol design for agents</li>-->
+    <li>Protocol design for agents</li>
   </ul>
   
 ---
