@@ -15,7 +15,7 @@ nav_order: 6
 
 <br>
 
-> ## Matrix Theory and Algorithms
+> ## Matrix Theory and Applications
 > - [Lecture1: 概述](/assets/pdf/matrixtheory/矩阵论2022_Lecture01.pdf)<br>
 > - [Lecture2：线性空间](/assets/pdf/matrixtheory/矩阵论2023_Lecture02.pdf)<br>
 > - [Lecture3：内积空间](/assets/pdf/matrixtheory/矩阵论2023_Lecture03.pdf)<br>
@@ -30,4 +30,3 @@ nav_order: 6
 > - [Lecture12：矩阵极限与级数](/assets/pdf/matrixtheory/矩阵论2023_Lecture12.pdf)<br>
 > - [Lecture13：矩阵微积分基础](/assets/pdf/matrixtheory/矩阵论2023_Lecture13.pdf)<br>
 > - [Lecture14：克罗内克积与哈达玛积](/assets/pdf/matrixtheory/矩阵论2023_Lecture14.pdf)<br>
-<br>
