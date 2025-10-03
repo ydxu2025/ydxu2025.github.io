@@ -9,3 +9,5 @@ related_publications: true
 ---
 
 hello
+
+{% bibliography %}
