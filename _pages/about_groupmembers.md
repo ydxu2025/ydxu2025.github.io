@@ -24,7 +24,7 @@ Mr. Yao Zhiyi (graduated from Fudan, 2023)
 
 ## Master Students:
 
-Ms. Wu Jingchao (will graduated from Nanjing Univ., 2026)
+Ms. Wu Jingchao (will graduate from Nanjing Univ., 2026)
 
 Ms. Zhu Jiaqi (graduated from Fudan, 2025)
 
