@@ -73,9 +73,9 @@ Mr. Liu Jiawei (ME, 2024, First Job: Huawei)
 
 Mr. Luo Zhixiang (ME, 2024, First Job: ByteDance)
 
-Ms. Zheng Ying (PhD, 2024, First Job: Fudan/INRIA Postdoc, France)
+Ms. Zheng Ying (Co-advised PhD, 2024, First Job: Fudan/INRIA Postdoc, France)
 
-Ms. Bai Qianlan (PhD, 2023, First Job: China Mobile Special Offer)
+Ms. Bai Qianlan (Co-advised PhD, 2023, First Job: China Mobile Special Offer)
 
 Mr. Duan Qingyang (MS, 2023, First Job: Alibaba)
 
