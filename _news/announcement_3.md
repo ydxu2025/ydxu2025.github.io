@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dr. Yuedong Xu serves as an adjunct professor of Shenzhen Loop Area Institute (深圳河套学院)
+title: Dr. Yuedong Xu serves as an adjunct professor of Shenzhen Loop Area Institute (深圳河套学院), 欢迎申请联合培养博士生。
 date: 2025-09-01 00:00:00-0400
 inline: false
 related_posts: false
