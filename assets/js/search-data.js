@@ -62,7 +62,7 @@ ninja.data = [{
             },},{id: "news-dr-yuedong-xu-has-migrated-to-college-of-computer-science-and-artificial-intelligence-计算与智能创新学院-and-ai3-institute-人工智能创新与产业研究院-fudan-university",
           title: 'Dr. Yuedong Xu has migrated to College of Computer Science and Artificial Intelligence...',
           description: "",
-          section: "News",},{id: "news-dr-yuedong-xu-serves-as-an-adjunct-professor-of-shenzhen-loop-area-institute-深圳河套学院",
+          section: "News",},{id: "news-dr-yuedong-xu-serves-as-an-adjunct-professor-of-shenzhen-loop-area-institute-深圳河套学院-欢迎申请联合培养博士生",
           title: 'Dr. Yuedong Xu serves as an adjunct professor of Shenzhen Loop Area Institute...',
           description: "",
           section: "News",handler: () => {
