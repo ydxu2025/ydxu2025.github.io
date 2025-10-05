@@ -93,7 +93,7 @@ Mr. Liu Xudong (ME, 2022, First Job: Alibaba)
 
 Mr. Zhang Chao (ME, 2021, First Job: ByteDance)
 
-Mr. You Xinhui (MS, 2021, First Job: Huawei)
+Mr. You Xinyu (MS, 2021, First Job: Huawei)
 
 Mr. Ding Bowen (MS, 2021, First Job: Aluxio)
 
