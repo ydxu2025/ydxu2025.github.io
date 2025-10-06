@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Waiting upadting2
-description: Waiting upadting2
+title: Multimedia Networking
+description: optimizing quality and user experience of video streaming services
 img: assets/img/12.jpg
 importance: 2
 category: work
