@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Waiting upadting1
-description: Waiting upadting1
+title: Machine Learning Systems
+description: making deep learning training and inference faster
 img: assets/img/12.jpg
 importance: 1
 category: work
