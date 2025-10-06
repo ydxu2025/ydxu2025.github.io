@@ -75,9 +75,9 @@ ninja.data = [{
           description: "making deep learning training and inference faster",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project_name/";
-            },},{id: "projects-waiting-upadting2",
-          title: 'Waiting upadting2',
-          description: "Waiting upadting2",
+            },},{id: "projects-multimedia-networking",
+          title: 'Multimedia Networking',
+          description: "optimizing quality and user experience of video streaming services",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project_name/";
             },},{
