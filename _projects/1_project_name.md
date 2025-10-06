@@ -20,15 +20,22 @@ Large language model (LLM) training and inference systems are highly complex and
     </div>
 </div>
 <div class="caption">
-    Accurate and rapid detection of anomalous devices (straggler) when training LLMs in a mega-scale GPU cluster. 
+    Accurate and rapid detection of anomalous devices (straggler) when training LLMs in a mega-scale GPU cluster, just like Holmes (福尔摩斯).
 </div>
+
+    ---
+    [IEEE Infocom 2025] MemFerry: A Fast and Memory Efficient Offload Training Framework with Hybrid GPU Computation
+    ---
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projectimg/system_overview.jpg" title="system overview" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projectimg/GPU_access_main_memory.jpg" title="memory access" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projectimg/shadow_model.jpg" title="shadow memory" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Strategically transferring gradients and model parameters between GPU HBM and CPU host memory in order to accelerate LLM training when the HBM size is limited, just like a Ferry (渡船). 
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
