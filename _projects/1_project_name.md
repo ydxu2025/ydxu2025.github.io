@@ -29,18 +29,29 @@ Large language model (LLM) training and inference systems are highly complex and
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projectimg/system_overview.jpg" title="system overview" class="img-fluid rounded z-depth-1" %}
-        {% include figure.liquid loading="eager" path="assets/img/projectimg/GPU_access_main_memory.jpg" title="memory access" class="img-fluid rounded z-depth-1" %}
-        {% include figure.liquid loading="eager" path="assets/img/projectimg/shadow_model.jpg" title="shadow memory" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projectimg/system_overview.png" title="system overview" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projectimg/GPU_access_main_memory.png" title="memory access" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projectimg/shadow_model.png" title="shadow memory" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Strategically transferring gradients and model parameters between GPU HBM and CPU host memory in order to accelerate LLM training when the HBM size is limited, just like a Ferry (渡船). 
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+    ---
+    [IEEE TPDS 2023] Accelerating Distributed DNN Training via Transport Layer Scheduling
+    ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projectimg/mercury_toy_example.png" title="mercury tpy example" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projectimg/mercury_system.png" title="mercury system" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    Accelerating deep learning training in classical distributed parameter-server architecture, where the key idea is to shift tensor priority scheduling and parameter aggregation to the slice just above the transport layer. 
+</div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
