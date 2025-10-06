@@ -80,6 +80,11 @@ ninja.data = [{
           description: "optimizing quality and user experience of video streaming services",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project_name/";
+            },},{id: "projects-network-economics-and-stochastic-analysis",
+          title: 'Network Economics and Stochastic Analysis',
+          description: "earning more or paying less, and original study on information freshness",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project_name/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
