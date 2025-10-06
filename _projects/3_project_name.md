@@ -3,15 +3,17 @@ layout: page
 title: Network Economics and Stochastic Analysis
 description: earning more or paying less, and original study on information freshness
 img: assets/img/12.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: true
 ---
 
 Network economics provides profound insights into the interactions among self-interested agents within networking systems. The information age, also known as the "Age of Information" or "Information Freshness", represents a crucial metric for quantifying the service quality of information flow in communication networks.
 
+**Selected Papers**
+
     ---
-    [Mobihoc 2019/ArXiv 2010] Eitan Altman, Rachid El-azouzi, Daniel Sadoc Menasche, Yuedong Xu, "Forever Young: Aging Control for Smartphones in Hybrid Networks", ACM Mobihoc 2019. (Released online in 2010)
+    [Mobihoc/ArXiv] Eitan Altman, Rachid El-azouzi, Daniel Sadoc Menasche, Yuedong Xu, "Forever Young: Aging Control for Smartphones in Hybrid Networks", ACM Mobihoc 2019/ArXiv 2010. (Released online in 2010, one of the earliest papers in this field)
     ---
 
 <div class="row">
@@ -24,7 +26,7 @@ Network economics provides profound insights into the interactions among self-in
 </div>
 
     ---
-    [ToN 2019] Yuedong Xu, Zhujun Xiao, Tianyu Ni, Hui Wang, Xin Wang and Eitan Altman, "On The Robustness of Price-Anticipating Kelly Mechanism", IEEE/ACM Trans. Networking, 2019.
+    [ToN] Yuedong Xu, Zhujun Xiao, Tianyu Ni, Hui Wang, Xin Wang and Eitan Altman, "On The Robustness of Price-Anticipating Kelly Mechanism", IEEE/ACM Trans. Networking, 2019.
     ---
 
 <div class="row">
@@ -77,4 +79,3 @@ Network economics provides profound insights into the interactions among self-in
 <div class="caption">
    to be added.
 </div>
-
