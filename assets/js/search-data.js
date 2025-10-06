@@ -70,9 +70,9 @@ ninja.data = [{
             },},{id: "news-our-work-on-federated-llm-finetuning-is-accepted-to-neurips-2025-sparkles-smile",
           title: 'Our work on Federated LLM Finetuning is accepted to NeurIPS 2025 :sparkles: :smile:...',
           description: "",
-          section: "News",},{id: "projects-waiting-upadting1",
-          title: 'Waiting upadting1',
-          description: "Waiting upadting1",
+          section: "News",},{id: "projects-machine-learning-systems",
+          title: 'Machine Learning Systems',
+          description: "making deep learning training and inference faster",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project_name/";
             },},{id: "projects-waiting-upadting2",
