@@ -8,10 +8,10 @@ category: work
 related_publications: true
 ---
 
-Large language model (LLM) training systems are fragile because of their massive scale and interconnections. A single point of failure can disrupt the entire cluster, and a single straggler device can slow synchronization and waste resources. These vulnerabilities make reliability and stability essential. 
+Large language model (LLM) training and inference systems are highly complex and rapidly evolving. Optimizing their efficiency remains a critical challenge, largely due to the intricate coupling among algorithms, software, and hardware. Moreover, the massive scale of LLM systems makes them inherently fragile: a single point of failure can disrupt the entire cluster, while a single straggler device can delay synchronization and waste substantial resources. These vulnerabilities underscore the importance of ensuring system reliability and stability. We are currently exploring three interrelated subprojects, including scale-up networks (SuperPods), reinforcement learning frameworks, and reliability issues. 
 
     ---
-    Holmes: Localizing Irregularities in LLM Training with Mega-scale GPU Clusters  
+    [USENIX NSDI 2025] Holmes: Localizing Irregularities in LLM Training with Mega-scale GPU Clusters
     ---
 
 <div class="row">
