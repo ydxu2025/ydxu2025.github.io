@@ -11,7 +11,7 @@ related_publications: true
 Network economics provides profound insights into the interactions among self-interested agents within networking systems. The information age, also known as the “Age of Information” or “Information Freshness,” represents a crucial metric for quantifying the service quality of information flow in communication networks.
 
     ---
-    [Mobihoc 2019/ArXiv 2010] Eitan Altman, Rachid El-azouzi, Daniel Sadoc Menasche, Yuedong Xu, "Forever Young: Aging Control for Smartphones in Hybrid Networks", ACM Mobihoc 2019.
+    [Mobihoc 2019/ArXiv 2010] Eitan Altman, Rachid El-azouzi, Daniel Sadoc Menasche, Yuedong Xu, "Forever Young: Aging Control for Smartphones in Hybrid Networks", ACM Mobihoc 2019. (Released online in 2010)
     ---
 
 <div class="row">
