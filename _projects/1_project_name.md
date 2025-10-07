@@ -20,7 +20,7 @@ Large language model (LLM) training and inference systems are highly complex and
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projectimg/detection_case.png" title="Anomaly Detection" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/projectimg/detection_case.png" title="Anomaly Detection" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
     </div>
 </div>
 <div class="caption">
@@ -33,9 +33,9 @@ Large language model (LLM) training and inference systems are highly complex and
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projectimg/system_overview.png" title="system overview" class="img-fluid rounded z-depth-1" %}
-        {% include figure.liquid loading="eager" path="assets/img/projectimg/GPU_access_main_memory.png" title="memory access" class="img-fluid rounded z-depth-1" %}
-        {% include figure.liquid loading="eager" path="assets/img/projectimg/shadow_model.png" title="shadow memory" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/projectimg/system_overview.png" title="system overview" class="img-fluid rounded z-depth-1 mx-auto d-block" max-width="50%" width="50%" %}
+    {% include figure.liquid loading="eager" path="assets/img/projectimg/GPU_access_main_memory.png" title="memory access" class="img-fluid rounded z-depth-1 mx-auto d-block" max-width="50%" width="50%" %}
+    {% include figure.liquid loading="eager" path="assets/img/projectimg/shadow_model.png" title="shadow memory" class="img-fluid rounded z-depth-1 mx-auto d-block" max-width="50%" width="50%" %}
     </div>
 </div>
 <div class="caption">
@@ -48,8 +48,8 @@ Large language model (LLM) training and inference systems are highly complex and
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projectimg/mercury_toy_example.png" title="mercury toy example" class="img-fluid rounded z-depth-1" %}
-        {% include figure.liquid loading="eager" path="assets/img/projectimg/mercury_system.png" title="mercury system" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/projectimg/mercury_toy_example.png" title="mercury toy example" class="img-fluid rounded z-depth-1 mx-auto d-block" max-width="50%" width="50%" %}
+    {% include figure.liquid loading="eager" path="assets/img/projectimg/mercury_system.png" title="mercury system" class="img-fluid rounded z-depth-1 mx-auto d-block" max-width="50%" width="50%" %}
     </div>
 </div>
 
