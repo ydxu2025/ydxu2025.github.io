@@ -24,7 +24,7 @@ Network economics provides profound insights into the interactions among self-in
     </div>
 </div>
 <div class="caption">
-    to be added.
+    An initiative study on defining information age and formulating an optimization framework.
 </div>
 
     ---
@@ -37,7 +37,7 @@ Network economics provides profound insights into the interactions among self-in
     </div>
 </div>
 <div class="caption">
-    to be added.
+    Understanding the price of anarchy for Kelly mechanism or Tullock contest theory when selfish but benign players coexist with malicious players. 
 </div>
 
     ---
@@ -51,7 +51,7 @@ Network economics provides profound insights into the interactions among self-in
 </div>
 
 <div class="caption">
-   to be added.
+   Understanding the fundamental reasons behind the profitability of Bitcoin selfish mining under the Proof-of-Work (PoW) mechanism, and analyzing the profitability threshold of selfish mining when multiple selfish miners coexist with honest miners.
 </div>
 
     ---
@@ -65,7 +65,7 @@ Network economics provides profound insights into the interactions among self-in
 </div>
 
 <div class="caption">
-   to be added.
+   Using branching process and mean field theory to analyze the content availability in Internet and P2P systems. (Trying to model the question "whether Internet has memory?")
 </div>
 
     ---
@@ -79,5 +79,5 @@ Network economics provides profound insights into the interactions among self-in
 </div>
 
 <div class="caption">
-   to be added.
+   Reducing the overall transanction fee charged by payment channels if the transactions can be reshuffled in blockchain.
 </div>
