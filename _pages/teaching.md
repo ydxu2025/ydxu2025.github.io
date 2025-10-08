@@ -15,7 +15,7 @@ nav_order: 6
 
 <br>
 
-> ## Matrix Theory and Applications
+> ## Matrix Theory and Applications (since 2014 Spring)
 > - [Lecture1: 概述](/assets/pdf/matrixtheory/矩阵论2022_Lecture01.pdf)<br>
 > - [Lecture2：线性空间](/assets/pdf/matrixtheory/矩阵论2023_Lecture02.pdf)<br>
 > - [Lecture3：内积空间](/assets/pdf/matrixtheory/矩阵论2023_Lecture03.pdf)<br>
