@@ -22,7 +22,7 @@ Network economics provides profound insights into the interactions among self-in
     </div>
 </div>
 <div class="caption">
-    An initiative study on defining information age and formulating an optimization framework.
+    An initiative study on defining information age and formulating an optimization framework in 2010.
 </div>
 
 
