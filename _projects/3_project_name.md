@@ -12,11 +12,9 @@ Network economics provides profound insights into the interactions among self-in
 
 **Selected Papers**
 
-    <div style="max-width: 600px; margin: auto; border: 1px solid #ccc; padding: 10px;">
-    ---
+
     [Mobihoc 2019/ArXiv 2020] Eitan Altman, Rachid El-azouzi, Daniel Sadoc Menasche, Yuedong Xu, "Forever Young: Aging Control for Smartphones in Hybrid Networks", ACM Mobihoc 2019/ArXiv 2010. (Released online in 2010, one of the earliest papers in this field)
-    ---
-    </div>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -27,9 +25,9 @@ Network economics provides profound insights into the interactions among self-in
     An initiative study on defining information age and formulating an optimization framework.
 </div>
 
-    ---
-    [ToN] Yuedong Xu, Zhujun Xiao, Tianyu Ni, Hui Wang, Xin Wang and Eitan Altman, "On The Robustness of Price-Anticipating Kelly Mechanism", IEEE/ACM Trans. Networking, 2019.
-    ---
+
+    [ToN 2019] Yuedong Xu, Zhujun Xiao, Tianyu Ni, Hui Wang, Xin Wang and Eitan Altman, "On The Robustness of Price-Anticipating Kelly Mechanism", IEEE/ACM Trans. Networking, 2019.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,9 +38,9 @@ Network economics provides profound insights into the interactions among self-in
     Understanding the price of anarchy for Kelly mechanism or Tullock contest theory when selfish but benign players coexist with malicious players. 
 </div>
 
-    ---
+
     [TIFS 2023] Qianlan Bai, Yuedong Xu*, Nianyi Liu, Xin Wang, "Blockchain Mining with Multiple Selfish Miners", IEEE Trans. Information Forensics & Security, 2023.
-    ---
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -54,9 +52,9 @@ Network economics provides profound insights into the interactions among self-in
    Understanding the fundamental reasons behind the profitability of Bitcoin selfish mining under the Proof-of-Work (PoW) mechanism, and analyzing the profitability threshold of selfish mining when multiple selfish miners coexist with honest miners.
 </div>
 
-    ---
+
     [ToN 2013] Eitan Altman, Philippe Nain, Adam Shwartz and Yuedong Xu*, "Predicting the Impact of Measures Against P2P Networks: Transient Behavior and Phase Transition", IEEE/ACM Trans. Networking, 2013.
-    ---
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -68,9 +66,9 @@ Network economics provides profound insights into the interactions among self-in
    Using branching process and mean field theory to analyze the content availability in Internet and P2P systems. (Trying to model the question "whether Internet has memory?")
 </div>
 
-    ---
+
     [TNSE 2023] Qianlan Bai, Yuedong Xu, Xin Wang, "Understanding the Benefit of Being Patient in Payment Channel Networks", IEEE Trans. Network Science and Engineering, 2022.
-    ---
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
