@@ -7,11 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-> ## Machine Learning Systems
+> ## Machine Learning Systems (since 2025 Autumn)
 
 <br>
 
-> ## Data Structures and Algorithms
+> ## Data Structures and Algorithms (since 2018 Autumn)
 
 <br>
 
