@@ -13,7 +13,9 @@ Video streaming services dominate Internet traffic. It is therefore essential to
 **Selected papers**
 
     
-    [JSAC] Ying Zheng, Lixiang Lin, Tianqi Zhang, Haoyu Chen, Qingyang Duan, Yuedong Xu*, Xin Wang, "Enabling Robust DRL-driven Networking Systems via Teacher-Student Learning", IEEE JSAC 2021.
+    [JSAC] Enabling Robust DRL-driven Networking Systems via Teacher-Student Learning
+    Ying Zheng, Lixiang Lin, Tianqi Zhang, Haoyu Chen, Qingyang Duan, Yuedong Xu*, Xin Wang
+    IEEE JSAC 2021.
     
 
 <div class="row">
@@ -26,9 +28,13 @@ Video streaming services dominate Internet traffic. It is therefore essential to
 </div>
 
     
-    [ToN/Infocom] Zhe Chen, Xu Zhang, Sulei Wang, Yuedong Xu*, Jie Xiong, Xin Wang, "Enabling Practical Large-Scale MIMO in WLANs With Hybrid Beamforming", IEEE/ACM Trans. Networking, 2021.
+    [ToN/Infocom] Enabling Practical Large-Scale MIMO in WLANs With Hybrid Beamforming
+    Zhe Chen, Xu Zhang, Sulei Wang, Yuedong Xu*, Jie Xiong, Xin Wang
+    IEEE/ACM Trans. Networking, 2021.
 
-    [TMM] Zhe Chen, Xu Zhang, Yuedong Xu*, Xin Wang, Jie Xiong and Yu Zhu, "MuVi: Multi-view Video Aware Transmission over MIMO Wireless Systems", IEEE Trans. Multimedia, 2017.
+    [TMM] MuVi: Multi-view Video Aware Transmission over MIMO Wireless Systems
+    Zhe Chen, Xu Zhang, Yuedong Xu*, Xin Wang, Jie Xiong and Yu Zhu
+    IEEE Trans. Multimedia, 2017.
     
 
 <div class="row">
@@ -41,13 +47,21 @@ Video streaming services dominate Internet traffic. It is therefore essential to
 </div>
 
     
-    [TMC] Yuedong Xu, Zhujun Xiao, Hui Feng, Tao Yang, Bo Hu and Yipeng Zhou, "Modeling Buffer Starvations of Video Streaming in Cellular Networks with Large-Scale Measurement of User Behavior". IEEE Trans. Mobile Computing, 2017. 
+    [TMC] Modeling Buffer Starvations of Video Streaming in Cellular Networks with Large-Scale Measurement of User Behavior
+    Yuedong Xu, Zhujun Xiao, Hui Feng, Tao Yang, Bo Hu and Yipeng Zhou
+    IEEE Trans. Mobile Computing, 2017. 
     
-    [TMC/Infocom] Yuedong Xu, Salah Elayoubi, Eitan Altman, Rachid El-Azouzi, "Flow Level QoE for Video Streaming in Wireless Networks". IEEE Trans. Mobile Computing, 2016.
+    [TMC/Infocom] Flow Level QoE for Video Streaming in Wireless Networks
+    Yuedong Xu, Salah Elayoubi, Eitan Altman, Rachid El-Azouzi
+    IEEE Trans. Mobile Computing, 2016.
 
-    [TMC] Yuedong Xu, Yipeng Zhou, Dah-ming Chiu, "Analytical QoE Models for Bit-rate Switching in Dynamic Adaptive Streaming Service",  IEEE Trans. Mobile Computing, 2014.
+    [TMC] Analytical QoE Models for Bit-rate Switching in Dynamic Adaptive Streaming Service
+    Yuedong Xu, Yipeng Zhou, Dah-ming Chiu
+    IEEE Trans. Mobile Computing, 2014.
 
-    [TMM/Infocom] Yuedong Xu, Eitan Altman, Rachid El-Azouzi, Majed Haddad, Salah Elayoubi, Tania Jimenez, "Analysis of Buffer Starvation with Application to QoE Optimization of Streaming-like Services", IEEE Trans. Multimedia, 2014.
+    [TMM/Infocom] Analysis of Buffer Starvation with Application to QoE Optimization of Streaming-like Services
+    Yuedong Xu, Eitan Altman, Rachid El-Azouzi, Majed Haddad, Salah Elayoubi, Tania Jimenez
+    IEEE Trans. Multimedia, 2014.
     
 
 <div class="row">
