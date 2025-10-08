@@ -12,7 +12,7 @@ Large language model (LLM) training and inference systems are highly complex and
 
 <br>
 
-** Selected Papers**
+**Selected Papers**
 
     
     [USENIX NSDI 2025] Holmes: Localizing Irregularities in LLM Training with Mega-scale GPU Clusters
