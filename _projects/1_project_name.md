@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning Systems
 description: making deep learning training and inference faster
-img: assets/img/12.jpg
+img: assets/img/no1.png
 importance: 1
 category: work
 related_publications: true
