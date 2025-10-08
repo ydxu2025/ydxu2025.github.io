@@ -115,6 +115,6 @@ related_publications: true
     </div>
     
     <div class="caption text-center mt-3 text-muted">
-        Accelerating deep learning training in classical distributed parameter-server architecture, where the key idea is to shift tensor priority scheduling and parameter aggregation to the slice just above the transport layer. 
+        Mercury (赫耳墨斯) accelerates deep learning training in classical distributed parameter-server architecture, where the key idea is to shift tensor priority scheduling and parameter aggregation to the slice just above the transport layer. 
     </div>
 </div>
