@@ -13,7 +13,9 @@ Network economics provides profound insights into the interactions among self-in
 **Selected Papers**
 
 
-    [Mobihoc 2019/ArXiv 2010] Eitan Altman, Rachid El-azouzi, Daniel Sadoc Menasche, Yuedong Xu, "Forever Young: Aging Control for Smartphones in Hybrid Networks", ACM Mobihoc 2019/ArXiv 2010. (Released online in 2010, one of the earliest papers in this field)
+    [Mobihoc 2019/ArXiv 2010] Forever Young: Aging Control for Smartphones in Hybrid Networks
+    Eitan Altman, Rachid El-azouzi, Daniel Sadoc Menasche, Yuedong Xu
+    ACM Mobihoc 2019/ArXiv 2010. (Released online in 2010, one of the earliest papers in this field)
 
 
 <div class="row">
@@ -26,7 +28,9 @@ Network economics provides profound insights into the interactions among self-in
 </div>
 
 
-    [ToN 2019] Yuedong Xu, Zhujun Xiao, Tianyu Ni, Hui Wang, Xin Wang and Eitan Altman, "On The Robustness of Price-Anticipating Kelly Mechanism", IEEE/ACM Trans. Networking, 2019.
+    [ToN 2019] On The Robustness of Price-Anticipating Kelly Mechanism
+    Yuedong Xu, Zhujun Xiao, Tianyu Ni, Hui Wang, Xin Wang and Eitan Altman
+    IEEE/ACM Trans. Networking, 2019.
 
 
 <div class="row">
@@ -39,7 +43,9 @@ Network economics provides profound insights into the interactions among self-in
 </div>
 
 
-    [TIFS 2023] Qianlan Bai, Yuedong Xu*, Nianyi Liu, Xin Wang, "Blockchain Mining with Multiple Selfish Miners", IEEE Trans. Information Forensics & Security, 2023.
+    [TIFS 2023/ICC 2019] Blockchain Mining with Multiple Selfish Miners
+    Qianlan Bai, Yuedong Xu*, Nianyi Liu, Xin Wang
+    IEEE Trans. Information Forensics & Security, 2023. (well cited)
 
 
 <div class="row">
@@ -49,11 +55,13 @@ Network economics provides profound insights into the interactions among self-in
 </div>
 
 <div class="caption">
-   Understanding the fundamental reasons behind the profitability of Bitcoin selfish mining under the Proof-of-Work (PoW) mechanism, and analyzing the profitability threshold of selfish mining when multiple selfish miners coexist with honest miners.
+   Understanding the fundamental reason that Bitcoin selfish mining under the Proof-of-Work (PoW) is profitable, and analyzing the profitable threshold of selfish mining when multiple selfish miners coexist with honest miners.
 </div>
 
 
-    [ToN 2013] Eitan Altman, Philippe Nain, Adam Shwartz and Yuedong Xu*, "Predicting the Impact of Measures Against P2P Networks: Transient Behavior and Phase Transition", IEEE/ACM Trans. Networking, 2013.
+    [ToN 2013] Predicting the Impact of Measures Against P2P Networks: Transient Behavior and Phase Transition
+    Eitan Altman, Philippe Nain, Adam Shwartz and Yuedong Xu*
+    IEEE/ACM Trans. Networking, 2013.
 
 
 <div class="row">
@@ -67,7 +75,9 @@ Network economics provides profound insights into the interactions among self-in
 </div>
 
 
-    [TNSE 2023] Qianlan Bai, Yuedong Xu, Xin Wang, "Understanding the Benefit of Being Patient in Payment Channel Networks", IEEE Trans. Network Science and Engineering, 2022.
+    [TNSE 2023] Understanding the Benefit of Being Patient in Payment Channel Networks
+    Qianlan Bai, Yuedong Xu, Xin Wang
+    IEEE Trans. Network Science and Engineering, 2022.
 
 
 <div class="row">
