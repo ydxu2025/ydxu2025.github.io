@@ -2,7 +2,7 @@
 layout: page
 title: Network Economics and Stochastic Analysis
 description: earning more or paying less, and original study on information freshness
-img: assets/img/12.jpg
+img: assets/img/no3.jpeg
 importance: 3
 category: work
 related_publications: true
