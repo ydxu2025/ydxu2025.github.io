@@ -39,7 +39,7 @@ Network economics provides profound insights into the interactions among self-in
     </div>
 </div>
 <div class="caption">
-    Understanding the price of anarchy for Kelly mechanism or Tullock contest theory when selfish but benign players coexist with malicious players. 
+    Understanding the price of anarchy for Kelly mechanism or Tullock contest model when selfish but benign players coexist with malicious players. 
 </div>
 
 
