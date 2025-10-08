@@ -14,9 +14,9 @@ Large language model (LLM) training and inference systems are highly complex and
 
 ** Selected Papers**
 
-    ---
+    
     [USENIX NSDI 2025] Holmes: Localizing Irregularities in LLM Training with Mega-scale GPU Clusters
-    ---
+    
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -27,9 +27,9 @@ Large language model (LLM) training and inference systems are highly complex and
     Accurate and rapid detection of anomalous devices (straggler) when training LLMs in a mega-scale GPU cluster, just like Holmes (福尔摩斯).
 </div>
 
-    ---
+    
     [IEEE Infocom 2025] MemFerry: A Fast and Memory Efficient Offload Training Framework with Hybrid GPU Computation
-    ---
+    
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -42,9 +42,9 @@ Large language model (LLM) training and inference systems are highly complex and
     Strategically transferring gradients and model parameters between GPU HBM and CPU host memory in order to accelerate LLM training when the HBM size is limited, just like a Ferry (渡船). 
 </div>
 
-    ---
+    
     [IEEE TPDS 2023] Accelerating Distributed DNN Training via Transport Layer Scheduling
-    ---
+    
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
