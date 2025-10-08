@@ -22,7 +22,7 @@ Video streaming services dominate Internet traffic. It is therefore essential to
     </div>
 </div>
 <div class="caption">
-    to be added.
+    We introduced a teacher–student paradigm to enhance the robustness of deep reinforcement learning (DRL) in networking systems, where the teacher is an imperfect but domain-specific algorithm, and the student is a generally well-performing DRL agent. 
 </div>
 
     
@@ -37,7 +37,7 @@ Video streaming services dominate Internet traffic. It is therefore essential to
     </div>
 </div>
 <div class="caption">
-    to be added.
+    We proposed novel resource allocation schemes for MIMO WiFi systems and 3D video streams. In particular, we integrated MIMO angular localization with hybrid beamforming to effectively mitigate the excessive overhead of CSI feedback. In the first round, wireless clients transmit preambles to the access point, enabling it to estimate the angles of arrival and perform proper client selection. In the second round, the clients provide fine-grained CSI feedback, allowing the access point to carry out conventional precoding and beamforming operations. These studies further inspired our subsequent work on WiFi localization.
 </div>
 
     
@@ -57,5 +57,5 @@ Video streaming services dominate Internet traffic. It is therefore essential to
 </div>
 
 <div class="caption">
-   to be added.
+    Predicting the probability of playback interruption is essential for enhancing the quality of user experience. We develop an analytical framework that reformulates the playback interruption problem as a risk analysis task in actuarial science. Interestingly, actuarial science and video QoE are two distinct domains that nevertheless share several common analytical tools.    
 </div>
