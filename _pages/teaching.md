@@ -11,7 +11,7 @@ nav_order: 6
 
 <br>
 
-> ## Data Structures and Algorithms (since 2018 Autumn)
+> ## Data Structures and Algorithms (since 2018 Autumn + Spring)
 
 <br>
 
