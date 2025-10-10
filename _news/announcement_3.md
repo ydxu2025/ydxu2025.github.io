@@ -6,6 +6,8 @@ inline: false
 related_posts: false
 ---
 Welcome to apply for the joint PhD position of Fudan University and Shenzhen Loop Area Institute (深圳河套学院)
+
+https://www.slai.edu.cn/
 ---
 
 
