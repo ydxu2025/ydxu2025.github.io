@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations:</a> College of Computer Science and Artificial Intelligence, Fudan University.
+subtitle: <a href='#'>Affiliations:</a> College of Computer Science and Artificial Intelligence, and AI3 Institute, Fudan University.
 
 profile:
   align: right
