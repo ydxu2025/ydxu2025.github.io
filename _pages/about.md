@@ -24,7 +24,7 @@ announcements:
 ---
 - Yuedong Xu 徐跃东
 
-- Professor, Director of MediaNet Group
+- Professor, Advisor of MediaNet Group
 
 - Office: Interdisciplinary Science Building, Jiangwan Campus, Fudan University
 
