@@ -80,6 +80,8 @@ Mr. Liu Jiawei (ME, 2024, First Job: Huawei)
 
 Mr. Luo Zhixiang (ME, 2024, First Job: ByteDance)
 
+Ms. Pan Wenqi (Co-advised PhD, 2024, First Job: Public Service)
+
 Ms. Zheng Ying (Co-advised PhD, 2024, First Job: Fudan/INRIA Postdoc, France)
 
 Ms. Bai Qianlan (Co-advised PhD, 2023, First Job: China Mobile Special Offer)
@@ -88,11 +90,11 @@ Mr. Duan Qingyang (MS, 2023, First Job: Alibaba)
 
 Ms. Li Xuanjie (MS, 2023, Next Stop: PhD at Duke Univ.)
 
-Mr. Li Jiahang (ME, 2023, First Job: Public Service @ Anhui)
+Mr. Li Jiahang (ME, 2023, First Job: Public Service)
 
-Mr. He Taiwei (ME, 2023, First Job: Public Service @ Shanghai)
+Mr. He Taiwei (ME, 2023, First Job: Public Service)
 
-Mr. Lin Lixiang (ME, 2022, First Job: Public Service @ Shanghai)
+Mr. Lin Lixiang (ME, 2022, First Job: Public Service)
 
 Mr. Gu Zhihao (MS, 2022, First Job: Alibaba)
 
@@ -104,7 +106,7 @@ Mr. You Xinyu (MS, 2021, First Job: Huawei)
 
 Mr. Ding Bowen (MS, 2021, First Job: Aluxio)
 
-Mr. Hu Zhaoyu (ME, 2020, First Job: Public Service @ Shanghai)
+Mr. Hu Zhaoyu (ME, 2020, First Job: Public Service)
 
 The earlier students are doing very well and will be included in the list later.
 
