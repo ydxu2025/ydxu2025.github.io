@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /members/
-title: Members
+permalink: /students/
+title: Students
 nav: true
 nav_order: 6
 ---
