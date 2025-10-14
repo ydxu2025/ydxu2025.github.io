@@ -39,7 +39,7 @@ Video streaming services dominate Internet traffic. It is therefore essential to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projectimg/XXX" title="system overview" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projectimg/XXX" title="system overview" class="img-fluid rounded z-depth-1" width = "50%" %}
     </div>
 </div>
 <div class="caption">
@@ -66,7 +66,7 @@ Video streaming services dominate Internet traffic. It is therefore essential to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projectimg/XXX.png" title="mercury tpy example" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projectimg/XXX.png" title="mercury tpy example" class="img-fluid rounded z-depth-1" width = "50%" %}
     </div>
 </div>
 
