@@ -7,6 +7,8 @@ nav_order: 6
 ---
 <br>
 
+在技术日新月异的今天，每个同学其实也是我的老师，大家互通有无、一起探索，希望能够产生一点点新的知识。
+
 ## Current PhD Students: (the year of joining our group)
 
 Mr. Chen Qi (will graduate from Fudan, 2026)
