@@ -9,6 +9,8 @@ nav_order: 6
 
 > ## Machine Learning Systems (since 2025 Autumn)
 > - [Lecture7: Data Parallelism and Memory Optimization](/assets/pdf/mlsys/MLSys-Lecture7.pdf)<br>
+> - [Lecture8: Model Parallelism in LLM Training](/assets/pdf/mlsys/MLSys-Lecture8.pdf)<br>
+> 
 
 > ## Data Structures and Algorithms (since 2018 Autumn + Spring)
 
