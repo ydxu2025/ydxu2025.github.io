@@ -1,0 +1,6 @@
+## Local development overrides
+# This file is intended to be merged with the main `_config.yml` when
+# running a local server to avoid fetching external posts or making
+# network requests during site generation.
+
+external_sources: []
