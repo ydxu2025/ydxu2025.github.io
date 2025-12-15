@@ -11,6 +11,8 @@ nav_order: 6
 > - [Lecture7: Data Parallelism and Memory Optimization](/assets/pdf/mlsys/MLSys-Lecture7.pdf)<br>
 > - [Lecture8: Model Parallelism in LLM Training](/assets/pdf/mlsys/MLSys-Lecture8.pdf)<br>
 > - [Lecture9: Expert Parallelism in LLM Training](/assets/pdf/mlsys/MLSys-Lecture9.pdf)<br>
+> - [Lecture11: LLM Inference Optimization A](/assets/pdf/mlsys/Lecture11_A.pdf)<br>
+> - [Lecture12: LLM Inference Optimization B](/assets/pdf/mlsys/Lecture12_B.pdf)<br>
 
 > ## Data Structures and Algorithms (since 2018 Autumn + Spring)
 
