@@ -33,6 +33,11 @@ announcements:
 - Research Interests:
   <ul>
     <li>LLM training and inference systems</li>
+    <ul>
+       <li> Parallel pretraining systems
+       <li> Reinforcement learning systems
+       <li> Inference optimization
+    </ul>
     <li>Multi-modal LLM alignment</li>
    <!-- <li>Protocol design for agents</li> -->
   </ul>
