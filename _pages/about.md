@@ -39,7 +39,6 @@ announcements:
        <li> Inference optimization
     </ul>
     <li>Multi-modal LLM alignment</li>
-   <!-- <li>Protocol design for agents</li> -->
   </ul>
   
 ---
