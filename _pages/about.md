@@ -34,9 +34,9 @@ announcements:
   <ul>
     <li>LLM training and inference systems</li>
     <ul>
-       <li> Parallel pretraining systems
-       <li> Reinforcement learning systems
-       <li> Inference optimization
+       <li> Parallel pretraining systems</li>
+       <li> Reinforcement learning systems</li>
+       <li> Inference optimization</li>
     </ul>
     <li>Multi-modal LLM alignment</li>
   </ul>
