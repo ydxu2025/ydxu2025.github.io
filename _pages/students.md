@@ -61,7 +61,7 @@ Mr. Ye Leyi (graduated from Southwest Jiaotong Univ., 2023)
 
 <br>
 
-## Past Students: (the year of graduation)
+## Previous Students: (the year of graduation)
 
 Most graduates joined Tencent, Alibaba, or Huawei, while the rest began their careers in state-owned enterprises or government agencies.
 <br>
@@ -112,4 +112,8 @@ Mr. Hu Zhaoyu (ME, 2020, First Job: Public Service)
 
 The earlier students are doing very well and will be included in the list later.
 
+## Previous Undergraduate Students: 
 
+PhD Students at Duke, UT Austin, Yale, UCLA, ETHZ, HKU, HKUST, UW Madison, William & Mary.
+
+Master Students at CMU, Columbia, Duke, USC, NYU, etc.
