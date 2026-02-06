@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two collaborative papers were accepted to NDSS and ToN.
+One collaborative paper was accepted to ToN.
