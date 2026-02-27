@@ -7,57 +7,57 @@ nav_order: 6
 ---
 <br>
 
-在技术日新月异的今天，每个同学和我互为老师，大家互通有无、一起探索，希望能够产生一点点新的知识。
+在技术日新月异的今天，大家互通有无、一起探索，希望能够产生一点点新的知识。
 
 ## Current PhD Students: (the year of joining our group)
 
-Mr. Chen Qi (will graduate from Fudan, 2026)
+Mr. Chen Qi (will graduate from Fudan, 2026): undecided
 
-Mr. Liu Yuxuan (will graduate from Fudan, 2026)
+Mr. Liu Yuxuan (will graduate from Fudan, 2026): undecided
 
-Mr. Liang Zuning (graduated from Fudan, 2025)
+Mr. Liang Zuning (graduated from Fudan, 2025): LLM Inference Acceleration
 
-Mr. Liu Boliang (graduated from Fudan, 2025)
+Mr. Liu Boliang (graduated from Fudan, 2025): Scale-out Networks for LLM Training and Inference
 
-Mr. Tian Hang (graduated from SJTU, 2025)
+Mr. Tian Hang (graduated from SJTU, 2025): Scale-up Networks for LLM Training and Inference
 
-Ms. Wen Ming (graduated from Fudan, 2025)
+Ms. Wen Ming (graduated from Fudan, 2025): LLM Jailbreaking and Alignment
 
-Mr. Zhou Zhou (graduated from UESTC, 2024)
+Mr. Zhou Zhou (graduated from UESTC, 2024): LLM Inference Acceleration
 
-Mr. Yao Zhiyi (graduated from Fudan, 2023)
+Mr. Yao Zhiyi (graduated from Fudan, 2023): Scale-up Networks for LLM Training and Inference
 
 <br>
 
 ## Current Master Students: (the year of joining our group)
 
-Ms. Wu Jingchao (will graduate from Nanjing Univ., 2026)
+Ms. Wu Jingchao (will graduate from Nanjing Univ., 2026): undecided
 
-Ms. Zhu Jiaqi (graduated from Fudan, 2025)
+Ms. Zhu Jiaqi (graduated from Fudan, 2025): LLM Jailbreaking
 
-Mr. Yuan Xinyu (graduated from Fudan, 2025)
+Mr. Yuan Xinyu (graduated from Fudan, 2025): Memory Managemnt for LLM Training and Inference
 
-Mr. Hu Ziyu (graduated from Fudan, 2025)
+Mr. Hu Ziyu (graduated from Fudan, 2025): GPU Profiling System
 
-Mr. Liu Chenxi (graduated from Nanjing Univ., 2025)
+Mr. Liu Chenxi (graduated from Nanjing Univ., 2025): LLM Inference Acceleration
 
-Mr. Chen Zhoukai (graduated from Northeastern Univ., 2025)
+Mr. Chen Zhoukai (graduated from Northeastern Univ., 2025): LLM Jailbreaking
 
-Mr. Gao Chiyifeng (graduated from Shandong Univ., 2025)
+Mr. Gao Chiyifeng (graduated from Shandong Univ., 2025): Agentic AI Systems
 
-Ms. Kong Linggao (graduated from Fudan, 2024)
+Ms. Kong Linggao (graduated from Fudan, 2024): Spot-Instance LLM Fine-tuning
 
-Mr. Liu Bingzheng (graduated from Fudan, 2024)
+Mr. Liu Bingzheng (graduated from Fudan, 2024): Multi-Modal LLM Inference Acceleration
 
-Mr. Peng Xinyu (graduated from Fudan, 2024)
+Mr. Peng Xinyu (graduated from Fudan, 2024): LLM Alignment
 
-Ms. He Zhaoying (graduated from Sun Yat-sen Univ., 2024)
+Ms. He Zhaoying (graduated from Sun Yat-sen Univ., 2024): Online Learning for Inference Optimization
 
-Mr. Wang Junkai (graduated from Fudan, 2023)
+Mr. Wang Junkai (graduated from Fudan, 2023): Online Learning for Inference Optimization
 
-Mr. Ren Ziang (graduated from Fudan, 2023)
+Mr. Ren Ziang (graduated from Fudan, 2023): Memory Managemnt for LLM Training and Inference
 
-Mr. Ye Leyi (graduated from Southwest Jiaotong Univ., 2023)
+Mr. Ye Leyi (graduated from Southwest Jiaotong Univ., 2023): Failure Recovery of LLM Training Systems
 
 <br>
 
@@ -66,15 +66,15 @@ Mr. Ye Leyi (graduated from Southwest Jiaotong Univ., 2023)
 Most graduates joined Tencent, Alibaba, or Huawei, while the rest began their careers in state-owned enterprises or government agencies.
 <br>
 
-Mr. Hu Pengbo (ME, 2025, First Job: Tencent)
+Mr. Hu Pengbo (ME, 2025, First Job: Tencent): Fault Localization for LLM Training
 
-Mr. Peng Chao (ME, 2025, First Job: TPLink, also harvesting some nice offers)
+Mr. Peng Chao (ME, 2025, First Job: TPLink, also harvesting some nice offers): RDMA Networks
 
-Mr. Wang Yuxiao (ME, 2025, First Job: Alibaba)
+Mr. Wang Yuxiao (ME, 2025, First Job: Alibaba): Automatic Parallelism for LLM Training
 
-Mr. Feng Chenglong (ME, 2025, First Job: Huawei)
+Mr. Feng Chenglong (ME, 2025, First Job: Huawei): Online Learning for Inference Optimization
 
-Ms. Yang Yuqing (ME, 2025, First Job: China Commercial Aircraft)
+Ms. Yang Yuqing (ME, 2025, First Job: China Commercial Aircraft): Queueing Theory for Inference Optimization
 
 Mr. Wang Zeqin (MS, 2024, First Job: Dewu, also harvesting some nice offers)
 
