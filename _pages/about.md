@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations:</a> College of Computer Science and Artificial Intelligence, and Artificial Intelligence Innovation & Incubation Institute, Fudan University.
+subtitle: <a href='#'>Affiliations:</a> College of Computer Science and Artificial Intelligence, and Artificial Intelligence Innovation & Incubation Institute, Fudan University (复旦大学计算与智能创新学院/人工智能创新与产业研究院). 
 
 profile:
   align: right
