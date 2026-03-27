@@ -34,11 +34,11 @@ announcements:
   <ul>
     <li>LLM training and inference systems</li>
     <ul>
-       <li> Parallel pretraining systems</li>
-       <li> Reinforcement learning systems</li>
-       <li> Inference optimization</li>
+       <li> Parallel pretraining systems (并行化机制、超节点系统)</li>
+       <li> Reinforcement learning systems (强化学习后训练系统加速、多模态强化学习系统)</li>
+       <li> Inference and Agentic systems (推理与智能体系统优化)</li>
     </ul>
-    <li>Multi-modal LLM alignment</li>
+    <li>Multi-modal LLM alignment (多模态安全对齐)</li>
   </ul>
   
 ---
