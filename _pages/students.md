@@ -31,7 +31,9 @@ Mr. Yao Zhiyi (graduated from Fudan, 2023): Scale-up Networks for LLM Training a
 
 ## Current Master Students: (the year of joining our group)
 
-Ms. Wu Jingchao (will graduate from Nanjing Univ., 2026): undecided
+Mr. Peng Dingkang (will graduate from Shanghai Jiaotong Univ., 2026): undecided
+
+Ms. Wu Jingchao (will graduate from Nanjing Univ., 2026): Sparse Matrix Computation
 
 Ms. Zhu Jiaqi (graduated from Fudan, 2025): LLM Jailbreaking
 
