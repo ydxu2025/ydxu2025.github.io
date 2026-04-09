@@ -47,11 +47,14 @@ Yuedong Xu is a Professor with College of Computer Science and Artificial Intell
 
 
 > 欢迎本科生、硕士生、博士生，以及国家人工智能学院（深圳河套学院、上海创智学院等）联合培养博士生加入课题组！我们的研究和工业界的实际需求和前沿技术结合密切，科研实习机会比较多（例如阿里、蚂蚁、腾讯、微软、华为等）
-> Q1: 招生名额及方向？
-> > 复旦大学学术学位博士生（AI Infra方向）、集成电路专项推免硕士生（AI Infra方向）、复旦大学 + 国家人工智能学院联合培养博士生（AI Infra/AI Security方向）
 
+> Q1: 招生名额及方向？
+> > 复旦大学学术学位博士生（AI Infra方向）、集成电路专项推免硕士生（AI Infra方向）、复旦大学 + 国家人工智能学院联合培养博士生（AI Infra/Trustworthy AI方向皆可）
 > Q2: 往届学生去向?
-> > 
+> > 博士生：暂无更多信息，因为2023年才有独立招收的博士生入学。合作指导博士生比较努力和优秀，获得ACM Sigcomm China优秀博士论文、上海市信息学会优秀博士论文，毕业后在海外从事博士后研究或以优才方式加入央企研究院。硕士生：近5年以阿里、字节、腾讯、华为、选调生、美国读博为主，也有少数同学拒掉头部互联网企业Offer令觅他处，不少人获得复旦大学优秀毕业研究生、上海市优秀毕业研究生、国家奖学金。(仅仅代表过去状况)
+> Q3: 招生要求？
+> > 自驱力强，认真踏实，阳光乐观，能听取不同意见，不眼高手低，不妄自菲薄，有毅力能够完整地做完一项工作，具有团队合作精神。AI Infra能力要求：熟悉1门编程语言（C++/Python/Go之一）、编程能力较强，有MLSys的项目经验是个加分项。可信AI：基础数学课成绩不错、熟悉Python编程，或者作为主力参加过重要的竞赛或相关科创项目。
+
 
 <!--
 AAAAAWrite your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
