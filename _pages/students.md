@@ -7,7 +7,7 @@ nav_order: 6
 ---
 <br>
 
-在技术日新月异的今天，大家互通有无、一起探索，希望能够产生一点点新的知识。
+在技术日新月异的今天，大家互通有无、一起探索，希望能够产生有趣的新知识。
 
 ## Current PhD Students: (the year of joining our group)
 
@@ -55,11 +55,11 @@ Mr. Peng Xinyu (graduated from Fudan, 2024): LLM Alignment
 
 Ms. He Zhaoying (graduated from Sun Yat-sen Univ., 2024): Online Learning for Inference Optimization
 
-Mr. Wang Junkai (graduated from Fudan, 2023): Online Learning for Inference Optimization
+Mr. Wang Junkai (graduated from Fudan, 2023): Online Learning for Inference Optimization. Offer: PhD scholarship @ University of Washington
 
-Mr. Ren Ziang (graduated from Fudan, 2023): Memory Managemnt for LLM Training and Inference
+Mr. Ren Ziang (graduated from Fudan, 2023): Memory Managemnt for LLM Training and Inference. First Job: ByteDance with nice package
 
-Mr. Ye Leyi (graduated from Southwest Jiaotong Univ., 2023): Failure Recovery of LLM Training Systems
+Mr. Ye Leyi (graduated from Southwest Jiaotong Univ., 2023): Failure Recovery of LLM Training Systems. First Job: Tencent with nice package
 
 <br>
 
