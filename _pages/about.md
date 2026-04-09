@@ -59,7 +59,7 @@ Yuedong Xu is a Professor with College of Computer Science and Artificial Intell
 > > 自驱力强，认真踏实，阳光乐观，能听取不同意见，不眼高手低，不妄自菲薄，有毅力能够完整地做完一项工作，具有团队合作精神。AI Infra能力要求：熟悉1门编程语言（C++/Python/Go等之一）、编程能力较强，有MLSys的项目经验是个加分项。可信AI：基础数学课成绩不错、熟悉Python编程，或者作为主力参加过重要的竞赛或相关科创项目。
 >
 > Q4: AI Infra没学过，自学是否困难？
-> > 需要一定的基础，但没有想象中的困难，本课题组目前尚无一人是计算机本科出身。参考课程：加州伯克利的《CS294-162 Machine Learning Systems》、卡内基梅隆的《15-442/15-642: Machine Learning Systems》、斯坦福的《CS 329S: Machine Learning Systems Design》、深圳河套学院的《Machine Learning System》https://mlsys-course.github.io、上海创智学院的《Systems for Artificial Intelligence》https://syfeng.net/pages/teaching.html 。此外，复旦大学也有华为的实训基地和实训课程。
+> > 需要一定的基础，但没有想象中的困难。目前本人刚转入计算与智能创新学院，课题组尚无一人是计算机本科出身。参考课程：加州伯克利的《CS294-162 Machine Learning Systems》、卡内基梅隆的《15-442/15-642: Machine Learning Systems》、斯坦福的《CS 329S: Machine Learning Systems Design》、深圳河套学院的《Machine Learning System》https://mlsys-course.github.io、上海创智学院的《Systems for Artificial Intelligence》https://syfeng.net/pages/teaching.html 。此外，复旦大学也有华为的实训基地和实训课程。
 
 
 <!--
