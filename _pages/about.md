@@ -48,7 +48,7 @@ Yuedong Xu is a Professor with College of Computer Science and Artificial Intell
 
 > 欢迎本科生、硕士生、博士生，以及国家人工智能学院（深圳河套学院、上海创智学院等）联合培养博士生加入课题组！我们的研究和工业界的实际需求和前沿技术结合密切，科研实习机会比较多（例如阿里、蚂蚁、腾讯、微软、华为等）
 
-<small>
+
 > Q1: 招生名额及方向？
 > > 复旦大学学术学位博士生（AI Infra方向）、集成电路专项推免硕士生（AI Infra方向）、复旦大学 + 国家人工智能学院联合培养博士生（AI Infra/Trustworthy AI方向皆可）
 >
@@ -60,7 +60,7 @@ Yuedong Xu is a Professor with College of Computer Science and Artificial Intell
 >
 > Q4: AI Infra没学过，自学是否困难？
 > > 需要一定的基础，但没有想象中的困难，本课题组目前尚无一人是计算机本科出身。参考课程：加州伯克利的《CS294-162 Machine Learning Systems》、卡内基梅隆的《15-442/15-642: Machine Learning Systems》、斯坦福的《CS 329S: Machine Learning Systems Design》、深圳河套学院的《Machine Learning System》https://mlsys-course.github.io、上海创智学院的《Systems for Artificial Intelligence》https://syfeng.net/pages/teaching.html 。此外，复旦大学也有华为的实训基地和实训课程。
-</small>
+
 
 <!--
 AAAAAWrite your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
