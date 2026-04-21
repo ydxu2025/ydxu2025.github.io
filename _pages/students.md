@@ -11,9 +11,9 @@ nav_order: 6
 
 ## Current PhD Students: (the year of joining our group, 部分学生与上海创智学院联合培养)
 
-Mr. Chen Qi (will graduate from 复旦大学, 2026): undecided
+Mr. Chen Qi (will graduate from 复旦大学, 2026): Agentic and Reinforcement Learning Systems
 
-Mr. Liu Yuxuan (will graduate from 复旦大学, 2026): undecided
+Mr. Liu Yuxuan (will graduate from 复旦大学, 2026): Scale-up Networks for LLM Training and Inference
 
 Mr. Liang Zuning (graduated from 复旦大学, 2025): LLM Inference Acceleration
 
@@ -31,7 +31,7 @@ Mr. Yao Zhiyi (graduated from 复旦大学, 2023): Scale-up Networks for LLM Tra
 
 ## Current Master Students: (the year of joining our group)
 
-Mr. Peng Dingkang (will graduate from 上海交通大学, 2026): undecided
+Mr. Peng Dingkang (will graduate from 上海交通大学, 2026): Multi-modal LLM Inference
 
 Ms. Wu Jingchao (will graduate from 南京大学, 2026): Sparse Matrix Computation
 
