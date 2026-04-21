@@ -9,7 +9,7 @@ nav_order: 6
 
 在技术日新月异的今天，大家互通有无、一起探索，希望能够产生有趣的新知识。
 
-## Current PhD Students: (the year of joining our group)
+## Current PhD Students: (the year of joining our group, 部分学生与上海创智学院联合培养)
 
 Mr. Chen Qi (will graduate from 复旦大学, 2026): undecided
 
