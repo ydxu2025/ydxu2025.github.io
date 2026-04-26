@@ -46,7 +46,7 @@ announcements:
 Yuedong Xu is a Professor with College of Computer Science and Artificial Intelligence, Fudan University, China. He received the BS degree from Anhui University, the MS degree from Huazhong University of Science and Technology, and the PhD degree from The Chinese University of Hong Kong. After graduation, he worked as a MENRT Postdoctoral fellow in INRIA Sophia Antipolis (not far away from Nice and Cannes) and Université d'Avignon, France (a small but beautiful city famous for its Lavender and Festival d'Avignon). He received the OKAWA Foundation research grant in 2019, and several teaching awards such as Shanghai Tang-Junyuan educational foundation teacher award (2023), Fudan BYD teacher award (2024), Shanghai Program of Shanghai Academic/Technology Research Leader (2025). He serves as an associate editor for IEEE Transactions on Network Science and Engineering. His areas of interests include foundation model training and inference systems, and multimedia networking. He has published a number of papers in premier conferences and journals including USENIX NSDI, USENIX ATC, ACM Mobisys, ACM CoNEXT, ACM Mobihoc, IEEE Infocom, IEEE/ACM ToN and IEEE JSAC.
 
 
-> 欢迎本科生、硕士生、博士生，以及国家人工智能学院（深圳河套学院、上海创智学院等）联合培养博士生加入课题组！我们的研究和工业界的实际需求和前沿技术结合密切，科研实习机会比较多（例如阿里、蚂蚁、腾讯、微软、华为等）
+> 欢迎本科生、硕士生、博士生，以及国家人工智能学院（深圳河套学院、上海创智学院、北京中关村学院）联合培养博士生加入课题组！我们的研究和工业界的实际需求和前沿技术结合密切，科研实习机会比较多（例如阿里、蚂蚁、腾讯、微软、华为等）
 
 
 > Q1: 招生名额及方向？
@@ -60,6 +60,9 @@ Yuedong Xu is a Professor with College of Computer Science and Artificial Intell
 >
 > Q4: AI Infra没学过，自学是否困难？
 > > 需要一定的基础，但没有想象中的困难。目前本人刚转入计算与智能创新学院/AI3院，课题组AI Infra方向的研究生均非计算机本科出身。参考课程：加州伯克利的《CS294-162 Machine Learning Systems》、卡内基梅隆的《15-442/15-642: Machine Learning Systems》、斯坦福的《CS 329S: Machine Learning Systems Design》、深圳河套学院的《Machine Learning System》https://mlsys-course.github.io、上海创智学院的《Systems for Artificial Intelligence》https://syfeng.net/pages/teaching.html 。此外，复旦大学也有华为的实训基地和实训课程。
+> 
+> Q5: 算力资源是否满足科研需求？
+> > 满足
 
 
 <!--
