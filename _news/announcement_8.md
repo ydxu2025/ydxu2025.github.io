@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on robustness of networking systems is accepted to IEEE Trans. Networking.
+One paper on robustness of networking systems is accepted to IEEE Transactions on Networking.
