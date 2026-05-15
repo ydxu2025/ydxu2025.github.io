@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on scale-up networks was accepted to ACM SIGCOMM 2026.
+One paper accepted to ACM SIGCOMM 2026.
