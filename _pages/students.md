@@ -55,18 +55,18 @@ Mr. Peng Xinyu (graduated from 复旦大学, 2024): LLM Alignment
 
 Ms. He Zhaoying (graduated from 中山大学, 2024): Online Learning for Inference Optimization
 
-Mr. Wang Junkai (graduated from 复旦大学, 2023): Online Learning for Inference Optimization. Offer: PhD scholarship @ University of Washington
-
-Mr. Ren Ziang (graduated from 复旦大学, 2023): Memory Managemnt for LLM Training and Inference. First Job: ByteDance with nice package
-
-Mr. Ye Leyi (graduated from 西南交通大学, 2023): Failure Recovery of LLM Training Systems. First Job: Tencent with nice package
-
 <br>
 
 ## Previous Students: (the year of graduation)
 
 Most graduates joined Tencent, Alibaba, or Huawei, while the rest began their careers in state-owned enterprises or government agencies.
 <br>
+
+Mr. Wang Junkai (graduated from 复旦大学, 2026): Offer: PhD scholarship @ University of Washington
+
+Mr. Ren Ziang (graduated from 复旦大学, 2026): First Job: ByteDance with nice package
+
+Mr. Ye Leyi (graduated from 西南交通大学, 2026): First Job: Tencent with nice package
 
 Mr. Hu Pengbo (graduated from 复旦大学，ME, 2025, First Job: Tencent): Fault Localization for LLM Training
 
