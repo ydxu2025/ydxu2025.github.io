@@ -15,13 +15,13 @@ Mr. Chen Qi (will graduate from 复旦大学, 2026): Agentic and Reinforcement L
 
 Mr. Liu Yuxuan (will graduate from 复旦大学, 2026): Scale-up Networks for LLM Training and Inference
 
-Mr. Liang Zuning (graduated from 复旦大学, 2025): LLM Inference Acceleration
+Mr. Liang Zuning (graduated from 复旦大学, 2025): Agentic AI Systems
 
 Mr. Liu Boliang (graduated from 复旦大学, 2025): Scale-out Networks for LLM Training and Inference
 
 Mr. Tian Hang (graduated from 上海交通大学, 2025): Scale-up Networks for LLM Training and Inference
 
-Ms. Wen Ming (graduated from 复旦大学, 2025): LLM Jailbreaking and Alignment
+Ms. Wen Ming (graduated from 复旦大学, 2025): LLM Alignment and Agentic AI Security
 
 Mr. Zhou Zhou (graduated from 电子科技大学, 2024): LLM Inference Acceleration
 
