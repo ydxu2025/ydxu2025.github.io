@@ -15,6 +15,8 @@ Mr. Chen Qi (will graduate from 复旦大学, 2026): Agentic and Reinforcement L
 
 Mr. Liu Yuxuan (will graduate from 复旦大学, 2026): Scale-up Networks for LLM Training and Inference
 
+Mr. Liu Bingzheng (graduated from 复旦大学, 2026): Multi-Modal LLM Inference Acceleration
+
 Mr. Liang Zuning (graduated from 复旦大学, 2025): Agentic AI Systems
 
 Mr. Liu Boliang (graduated from 复旦大学, 2025): Scale-out Networks for LLM Training and Inference
@@ -48,8 +50,6 @@ Mr. Chen Zhoukai (graduated from 东北大学, 2025): LLM Jailbreaking
 Mr. Gao Chiyifeng (graduated from 山东大学, 2025): Agentic AI Systems
 
 Ms. Kong Linggao (graduated from 复旦大学, 2024): Spot-Instance LLM Fine-tuning
-
-Mr. Liu Bingzheng (graduated from 复旦大学, 2024): Multi-Modal LLM Inference Acceleration
 
 Mr. Peng Xinyu (graduated from 复旦大学, 2024): LLM Alignment
 
