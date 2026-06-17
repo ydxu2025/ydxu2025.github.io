@@ -11,11 +11,13 @@ nav_order: 6
 
 ## Current PhD Students: (the year of joining our group, 部分学生与上海创智学院联合培养)
 
-Mr. Chen Qi (will graduate from 复旦大学, 2026): Agentic and Reinforcement Learning Systems
+Ms. Zhu Jiaqi (graduated from 复旦大学, 硕转博, 2027): LLM Jailbreaking and Alignment
 
-Mr. Liu Yuxuan (will graduate from 复旦大学, 2026): Scale-up Networks for LLM Training and Inference
+Mr. Chen Qi (graduated from 复旦大学, 2026): Agentic and Reinforcement Learning Systems
 
-Mr. Liu Bingzheng (graduated from 复旦大学, 2026): Multi-Modal LLM Inference Acceleration
+Mr. Liu Yuxuan (graduated from 复旦大学, 2026): Scale-up Networks for LLM Training and Inference
+
+Mr. Liu Bingzheng (graduated from 复旦大学, 硕转博, 2026): Multi-Modal LLM Inference Acceleration
 
 Mr. Liang Zuning (graduated from 复旦大学, 2025): Agentic AI Systems
 
@@ -23,7 +25,7 @@ Mr. Liu Boliang (graduated from 复旦大学, 2025): Scale-out Networks for LLM 
 
 Mr. Tian Hang (graduated from 上海交通大学, 2025): Scale-up Networks for LLM Training and Inference
 
-Ms. Wen Ming (graduated from 复旦大学, 2025): LLM Alignment and Agentic AI Security
+Ms. Wen Ming (graduated from 复旦大学, 硕转博, 2025): LLM Alignment and Agentic AI Security
 
 Mr. Zhou Zhou (graduated from 电子科技大学, 2024): LLM Inference Acceleration
 
@@ -36,8 +38,6 @@ Mr. Yao Zhiyi (graduated from 复旦大学, 2023): Scale-up Networks for LLM Tra
 Mr. Peng Dingkang (will graduate from 上海交通大学, 2026): Multi-modal LLM Inference
 
 Ms. Wu Jingchao (will graduate from 南京大学, 2026): Sparse Matrix Computation
-
-Ms. Zhu Jiaqi (graduated from 复旦大学, 2025): LLM Jailbreaking
 
 Mr. Yuan Xinyu (graduated from 复旦大学, 2025): Memory Managemnt for LLM Training and Inference
 
