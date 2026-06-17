@@ -11,7 +11,7 @@ nav_order: 6
 
 ## Current PhD Students: (the year of joining our group, 部分学生与上海创智学院联合培养)
 
-Ms. Zhu Jiaqi (graduated from 复旦大学, 硕转博, 2027): LLM Jailbreaking and Alignment
+Ms. Zhu Jiaqi (graduated from 复旦大学, 2027): LLM Jailbreaking and Alignment
 
 Mr. Chen Qi (graduated from 复旦大学, 2026): Agentic and Reinforcement Learning Systems
 
@@ -39,6 +39,8 @@ Mr. Peng Dingkang (will graduate from 上海交通大学, 2026): Multi-modal LLM
 
 Ms. Wu Jingchao (will graduate from 南京大学, 2026): Sparse Matrix Computation
 
+Ms. Zhu Jiaqi (graduated from 复旦大学, 2025): LLM Jailbreaking and Alignment
+
 Mr. Yuan Xinyu (graduated from 复旦大学, 2025): Memory Managemnt for LLM Training and Inference
 
 Mr. Hu Ziyu (graduated from 复旦大学, 2025): GPU Profiling System
@@ -50,6 +52,8 @@ Mr. Chen Zhoukai (graduated from 东北大学, 2025): LLM Jailbreaking
 Mr. Gao Chiyifeng (graduated from 山东大学, 2025): Agentic AI Systems
 
 Ms. Kong Linggao (graduated from 复旦大学, 2024): Spot-Instance LLM Fine-tuning
+
+Mr. Liu Bingzheng (graduated from 复旦大学, 2024): Multi-Modal LLM Inference Acceleration
 
 Mr. Peng Xinyu (graduated from 复旦大学, 2024): LLM Alignment
 
