@@ -11,7 +11,7 @@ nav_order: 6
 
 ## Current PhD Students: (the year of joining our group, 部分学生与上海创智学院联合培养)
 
-Ms. Zhu Jiaqi (graduated from 复旦大学, 2027): LLM Jailbreaking and Alignment
+Ms. Zhu Jiaqi (graduated from 复旦大学, 硕转博, 2027): LLM Jailbreaking and Alignment
 
 Mr. Chen Qi (graduated from 复旦大学, 2026): Agentic and Reinforcement Learning Systems
 
