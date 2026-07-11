@@ -11,7 +11,7 @@ nav_order: 6
 > - [Lecture7: Data Parallelism in LLM Training](/assets/pdf/mlsys/Lecture07-Data_Parallelism.pdf)<br>
 > - [Lecture8: Model Parallelism in LLM Training](/assets/pdf/mlsys/Lecture08_Model_Parallelism.pdf)<br>
 > - [Lecture9: Expert Parallelism in LLM Training](/assets/pdf/mlsys/Lecture09_Expert_Parallelism.pdf)<br>
-> - [Lecture10: FineTuning in LLM Training](/assets/pdf/mlsys/Lecture10_Finetuning.pdf)<br>
+> - [Lecture10: FineTuning in LLM Training](/assets/pdf/mlsys/Lecture10_FineTuning.pdf)<br>
 > - [Lecture11: LLM Inference Optimization A](/assets/pdf/mlsys/Lecture11_Inference_Optimization_PartA.pdf)<br>
 > - [Lecture12: LLM Inference Optimization B](/assets/pdf/mlsys/Lecture12_Inference_Optimization-PartB.pdf)<br>
 
