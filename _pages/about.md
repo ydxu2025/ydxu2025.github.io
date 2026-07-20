@@ -56,7 +56,7 @@ Yuedong Xu is a Professor with College of Computer Science and Artificial Intell
 > > 博士生：合作指导博士生比较努力，获得ACM Sigcomm China优秀博士论文、上海市信息学会优秀博士论文，毕业后在海外从事博士后研究/优才方式加入央企研究院/国内头部学校教职。硕士生：近5年以阿里、字节、腾讯、华为、选调生、美国读博为主，也有少数同学拒掉头部互联网企业Offer令觅他处，不少人获得复旦大学优秀毕业研究生、上海市优秀毕业研究生、国家奖学金。
 > 
 > Q3: 招生要求？
-> > 自驱力强，认真踏实，阳光乐观，能听取不同意见，不眼高手低，不妄自菲薄，有毅力能够完整地做完一项工作，具有团队合作精神。AI Infra能力要求：熟悉1门编程语言（C++/Python/Go等之一）、编程能力较强或者运用AI工具进行编程的能力比较强，有MLSys的项目经验是个加分项。可信AI：基础数学课成绩不错、熟悉Python编程，或者作为主力参加过重要的竞赛或相关科创项目。当下的基本要求是能完整地读一篇20～30页的论文并总结归纳，且不借助任何AI工具。
+> > 自驱力强，认真踏实，阳光乐观，能听取不同意见，不眼高手低，不妄自菲薄，**有耐心靠自己逐字逐句而不是AI总结去读论文**、**有毅力能够完整地做完一项工作**，具有**团队合作精神**。AI Infra能力要求：熟悉1门编程语言（C++/Python/Go等之一）、编程能力较强或者运用AI工具进行编程的能力比较强，有MLSys的项目经验是个加分项。可信AI：基础数学课成绩不错、熟悉Python编程，或者作为主力参加过重要的竞赛或相关科创项目。当下的基本要求是能完整地读一篇20～30页的论文并总结归纳，且不借助任何AI工具。
 >
 > Q4: AI Infra没学过，自学是否困难？
 > > 需要一定的基础，但没有想象中的困难。目前本人刚转入计算与智能创新学院/AI3院，课题组AI Infra方向的研究生均非计算机本科出身。参考课程：加州伯克利的《CS294-162 Machine Learning Systems》、卡内基梅隆的《15-442/15-642: Machine Learning Systems》、斯坦福的《CS 329S: Machine Learning Systems Design》、深圳河套学院的《Machine Learning System》https://mlsys-course.github.io、上海创智学院的《Systems for Artificial Intelligence》https://syfeng.net/pages/teaching.html 。此外，复旦大学也有华为的实训基地和实训课程。
