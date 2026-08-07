@@ -13,6 +13,10 @@ nav_order: 6
 
 Ms. Zhu Jiaqi (graduated from 复旦大学, 硕转博, 2027): LLM Jailbreaking and Alignment
 
+Mr. Xu Zichao (graduated from 大连理工大学, 2026): Multi-modal LLM Inference
+
+Mr. Ding Ruiyi (graduated from 上海大学, 2026): Multi-modal LLM Post-training Infrastructure
+
 Mr. Chen Qi (graduated from 复旦大学, 2026): Agentic and Reinforcement Learning Systems
 
 Mr. Liu Yuxuan (graduated from 复旦大学, 2026): Scale-up Networks for LLM Training and Inference
