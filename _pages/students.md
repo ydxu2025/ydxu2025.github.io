@@ -9,11 +9,13 @@ nav_order: 6
 
 在技术日新月异的今天，大家互通有无、一起探索，希望能够产生有趣的新知识。
 
-## Current PhD Students: (the year of joining our group, 部分学生与上海创智学院联合培养)
+## Current PhD Students: (the year of joining our group, 部分学生与人工智能学院联合培养)
 
 Ms. Zhu Jiaqi (graduated from 复旦大学, 硕转博, 2027): LLM Jailbreaking and Alignment
 
 Mr. Xu Zichao (graduated from 大连理工大学, 2026): Multi-modal LLM Inference
+
+Mr. Huo Yukang (graduated from 中国农业大学, 2026，co-advised): 未定
 
 Mr. Ding Ruiyi (graduated from 上海大学, 2026, co-advised with Prof. Cheng Yuan): Multi-modal LLM Post-training Infrastructure
 
