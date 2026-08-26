@@ -11,8 +11,6 @@ nav_order: 6
 
 ## Current PhD Students: (the year of joining our group, 部分学生与人工智能学院联合培养)
 
-Ms. Zhu Jiaqi (graduated from 复旦大学, 硕转博, 2027): LLM Jailbreaking and Alignment
-
 Mr. Xu Zichao (graduated from 大连理工大学, 2026): Multi-modal LLM Inference
 
 Mr. Huo Yukang (graduated from 中国农业大学, 2026，co-advised): 未定
