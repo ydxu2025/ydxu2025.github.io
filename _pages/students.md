@@ -13,7 +13,7 @@ nav_order: 6
 
 Mr. Xu Zichao (graduated from 大连理工大学, 2026, with Shenzhen Loop Area Institute): Multi-modal LLM Inference
 
-Mr. Huo Yukang (graduated from 中国农业大学, 2026，co-advised with Zhongguancun Institute): 未定
+Mr. Huo Yukang (graduated from 中国农业大学, 2026，co-advised with a faculty member of Zhongguancun Institute): 未定
 
 Mr. Ding Ruiyi (graduated from 上海大学, 2026, co-advised with Prof. Cheng Yuan): Multi-modal LLM Post-training Infrastructure
 
