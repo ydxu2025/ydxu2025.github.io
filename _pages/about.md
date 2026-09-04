@@ -50,7 +50,7 @@ Yuedong Xu is a Professor with College of Computer Science and Artificial Intell
 
 
 > Q1: 招生名额及方向？
-> > 复旦大学学术学位博士生（AI Infra方向）、集成电路专项推免硕士生（AI Infra方向）、复旦大学 + 国家人工智能学院联合培养博士生（AI Infra/Trustworthy AI方向皆可）
+> > 复旦大学学术学位博士生（AI Infra方向）、集成电路专项推免硕士生（AI Infra方向）、华为专项推免硕士生（AI Infra方向）、复旦大学 + 国家人工智能学院联合培养博士生（AI Infra、Algorithm-System Codesign方向）
 >
 > Q2: 往届学生去向?
 > > 博士生：合作指导博士生比较努力，获得ACM Sigcomm China优秀博士论文、上海市信息学会优秀博士论文，毕业后在海外从事博士后研究/优才方式加入央企研究院/国内头部学校教职。硕士生：近5年以阿里、字节、腾讯、华为、选调生、美国读博为主，也有少数同学拒掉头部互联网企业Offer令觅他处，不少人获得复旦大学优秀毕业研究生、上海市优秀毕业研究生、国家奖学金。
