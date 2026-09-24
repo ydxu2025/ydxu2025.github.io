@@ -15,7 +15,7 @@ Mr. Xu Zichao (graduated from 大连理工大学, 2026, with Shenzhen Loop Area 
 
 Mr. Ding Ruiyi (graduated from 上海大学, 2026, co-advised with Prof. Cheng Yuan): Multi-modal LLM Post-training Infrastructure
 
-Mr. Huo Yukon (graduated from 中国农业大学, 2026, with Beijing Zhongguancun Institute, co-advised): Undecided
+Mr. Huo Yukang (graduated from 中国农业大学, 2026, with Beijing Zhongguancun Institute, co-advised): Undecided
 
 Mr. Chen Qi (graduated from 复旦大学, 2026): Agentic and Reinforcement Learning Systems
 
