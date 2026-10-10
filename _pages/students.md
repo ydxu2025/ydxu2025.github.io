@@ -11,6 +11,16 @@ nav_order: 6
 
 ## Current PhD Students: (the year of joining our group, 部分学生与人工智能学院联合培养)
 
+Mr. Li Xiaofeng (from 东南大学, 2027)
+
+Mr. Liu Chang (from 北京科技大学, 2027)
+
+Ms. Shao Bingqin (from 华中科技大学, 2027)
+
+Ms. Zhang Yingying (from 天津大学, 2027)
+
+Mr. Gan Runzhuo (from 电子科技大学, 2027)
+
 Mr. Xu Zichao (graduated from 大连理工大学, 2026, with Shenzhen Loop Area Institute): Multi-modal LLM Inference
 
 Mr. Ding Ruiyi (graduated from 上海大学, 2026, co-advised with Prof. Cheng Yuan): Multi-modal LLM Post-training Infrastructure
@@ -39,9 +49,15 @@ Mr. Yao Zhiyi (graduated from 复旦大学, 2023): Scale-up Networks for LLM Tra
 
 ## Current Master Students: (the year of joining our group)
 
-Mr. Peng Dingkang (will graduate from 上海交通大学, 2026): Multi-modal LLM Inference
+Mr. Fu Jiaquan (from 南开大学, 2027)
 
-Ms. Wu Jingchao (will graduate from 南京大学, 2026): Sparse Matrix Computation
+Ms. Xu Minxuan (from 复旦大学, 2027)
+
+Ms. Wu Yuxi (from 复旦大学, 2027)
+
+Mr. Peng Dingkang (graduated from 上海交通大学, 2026): Multi-modal LLM Inference
+
+Ms. Wu Jingchao (graduated from 南京大学, 2026): Sparse Matrix Computation
 
 Ms. Zhu Jiaqi (graduated from 复旦大学, 2025): LLM Jailbreaking and Alignment
 
