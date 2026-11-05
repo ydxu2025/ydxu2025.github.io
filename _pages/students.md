@@ -9,7 +9,7 @@ nav_order: 6
 
 在技术日新月异的今天，大家互通有无、一起探索，希望能够产生有趣的新知识。
 
-## Current PhD Students: (the year of joining our group, 部分学生是合作指导)
+## Current PhD Students: (the year of joining our group, 部分学生是合作指导，to be updated)
 
 Mr. Xu Zichao (graduated from 大连理工大学, 2026): Multi-modal LLM Inference
 
