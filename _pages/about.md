@@ -61,8 +61,6 @@ Yuedong Xu is a Professor with College of Computer Science and Artificial Intell
 > Q4: AI Infra没学过，自学是否困难？
 > > 需要一定的基础，但没有想象中的困难。目前本人刚转入计算与智能创新学院/AI3院，课题组AI Infra方向的研究生均非计算机本科出身。参考课程：加州伯克利的《CS294-162 Machine Learning Systems》、卡内基梅隆的《15-442/15-642: Machine Learning Systems》、斯坦福的《CS 329S: Machine Learning Systems Design》、深圳河套学院的《Machine Learning System》https://mlsys-course.github.io、上海创智学院的《Systems for Artificial Intelligence》https://syfeng.net/pages/teaching.html 。此外，复旦大学也有华为的实训基地和实训课程。
 > 
-> Q5: 算力资源是否满足科研需求？
-> > 满足
 
 
 <!--
